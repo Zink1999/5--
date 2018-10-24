@@ -1,0 +1,10 @@
+#button:target {
+    display: block;
+}
+
+#button2{
+    color: #420013;
+    border-radius: 15%;
+    background-color: #b7acf2;
+}
+
